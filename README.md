@@ -44,9 +44,12 @@ I'm a highly motivated and detail-oriented Full Stack Developer with a strong fo
 
 ---
 
-![Sakunthala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakunthala26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sakunthala26&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="Sakunthala's GitHub Stats" />
 
-![Sakunthala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakunthala26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakunthala26&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+
 
 ---
 
