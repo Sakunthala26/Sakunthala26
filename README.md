@@ -77,7 +77,6 @@ I'm a highly motivated and detail-oriented Full Stack Developer with a strong fo
 
 #### 🧩 Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![PHP](https://skillicons.dev/icons?i=php)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
 #### 🗃 Database
@@ -94,8 +93,6 @@ I'm a highly motivated and detail-oriented Full Stack Developer with a strong fo
 #### ⚙ Tools & Others
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![WordPress](https://skillicons.dev/icons?i=wordpress)
-![Python](https://skillicons.dev/icons?i=python)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 ---
