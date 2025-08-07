@@ -55,7 +55,7 @@ I'm a highly motivated and detail-oriented Full Stack Developer with a strong fo
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakunthala-kumari-371365374" target="blank">
+  <a href="https://www.linkedin.com/in/sakunthala-kumari-dewliya-37283236b" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://github.com/Sakunthala26" target="blank">
