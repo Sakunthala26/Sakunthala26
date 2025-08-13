@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">🚀 Roles I Can Perform</h3>
+<h3 align="center">🚀 Role I Can Perform</h3>
 
 <p align="center">
   👩‍💻 Full Stack Developer • 🧪 QA Tester • 🎨 UI/UX Designer
